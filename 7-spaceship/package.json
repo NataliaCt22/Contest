@@ -1,0 +1,22 @@
+{
+  "name": "spaceship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node dist/index.js",
+  "build": "tsc"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3"
+  }
+}
